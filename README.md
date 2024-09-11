@@ -10,4 +10,9 @@ Enabled easy filtering and exploration of data by loan grade and purpose using s
 
 ![Summary_report](https://github.com/user-attachments/assets/9bfd10f5-b169-44ad-89d8-88cbadb85cc9)
 
+
+
+![overview_report](https://github.com/user-attachments/assets/3ca8fbdc-1888-4267-8eaf-3278ae6dcbae)
+
+
   
